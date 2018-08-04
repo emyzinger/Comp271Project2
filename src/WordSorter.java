@@ -69,7 +69,7 @@ public class WordSorter {
         }
     }
 
-    public List getArray(){
+    public List<Set<String>> getArray(){
         return words;
     }
 }
