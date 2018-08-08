@@ -8,7 +8,7 @@ public class WordSorter {
     Scanner dict = null;
 
     public WordSorter(String fileName){
-        //will be called from WordFiner
+        //will be called from WordFinder
         init();
         importDictionary(fileName);
     }
