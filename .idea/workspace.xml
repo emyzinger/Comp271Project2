@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b89d1b6-02bc-4bc2-84b7-4f0a78770fc8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/TestWordFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testWords2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Comp271Project2-master/WordFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Comp271Project2-master/WordFinder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WordFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordSorter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordFinder.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WordFinder.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WordFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="143">
+              <caret line="22" column="71" lean-forward="true" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
@@ -60,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestWordFinder.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestWordFinder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/TestWordFinder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="616">
@@ -134,9 +128,9 @@
         <option value="$PROJECT_DIR$/Tests/TestWordSorted.java" />
         <option value="$PROJECT_DIR$/src/WordSorter.java" />
         <option value="$PROJECT_DIR$/testWords2.txt" />
-        <option value="$PROJECT_DIR$/src/WordFinder.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/Tests/TestWordFinder.java" />
+        <option value="$PROJECT_DIR$/src/WordFinder.java" />
       </list>
     </option>
   </component>
@@ -565,20 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -600,6 +580,20 @@
             <element signature="imports" expanded="true" />
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="22" column="71" lean-forward="true" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
           </folding>
         </state>
       </provider>

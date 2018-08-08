@@ -19,10 +19,10 @@ public class WordFinder{
         WordSorter wordSort = new WordSorter(fileName);
         List<Set<String>> allWords=wordSort.getArray();
         answers=allWords.get(((int) word.charAt(0))-65);
-        Set<String> s2=allWords.get(((int) word.charAt(1))-65);
-        Set<String> s3=allWords.get(((int) word.charAt(2))-65);
-        answers.retainAll(s2);
-        answers.retainAll(s3);
+        for(int i=1;i<word.length();i++){
+            answers.retainAll(allWords.get(((int) word.charAt(i))-65));
+        }
+        
     }
 }
 
