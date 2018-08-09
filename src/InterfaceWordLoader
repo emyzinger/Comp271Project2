@@ -1,0 +1,5 @@
+public interface WordLoader{
+
+    //interface for what is required to import a dictionary of words
+     importDictionary(String FileName);
+}

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class WordSorter {
+public class WordSorter implements InterfaceWordLoader {
 
     // make an array containing 26 sets
     private List<Set<String>> words = new ArrayList<>();
